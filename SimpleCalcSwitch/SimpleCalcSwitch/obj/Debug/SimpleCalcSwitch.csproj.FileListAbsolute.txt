@@ -1,0 +1,7 @@
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\bin\Debug\SimpleCalcSwitch.exe.config
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\bin\Debug\SimpleCalcSwitch.exe
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\bin\Debug\SimpleCalcSwitch.pdb
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\obj\Debug\SimpleCalcSwitch.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\obj\Debug\SimpleCalcSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\obj\Debug\SimpleCalcSwitch.exe
+C:\Users\Mary_Lapko\source\repos\SimpleCalcSwitch\SimpleCalcSwitch\obj\Debug\SimpleCalcSwitch.pdb
